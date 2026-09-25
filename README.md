@@ -4,7 +4,11 @@
 > Timeless books and AI-powered inquiry frameworks for builders.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/read-deep?style=social)](https://github.com/realchendahuang/read-deep)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/read-deep?style=social)](https://github.com/realchendahuang/read-deep/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/read-deep)](https://github.com/realchendahuang/read-deep/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/read-deep/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
